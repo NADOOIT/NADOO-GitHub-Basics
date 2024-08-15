@@ -46,6 +46,10 @@ Um das Repository zu vervollständigen, erstellen Sie Screenshots der beschriebe
 2. Fügen Sie die Bilder in das Repository ein, indem Sie sie im `images/`-Ordner speichern.
 3. Erstellen Sie einen Pull Request, um Ihre Änderungen vorzuschlagen.
 
+## Dokumentation und Fragen
+
+Es ist entscheidend, dass alle Fragen, die während der Bearbeitung dieses Lehrgangs aufkommen, dokumentiert werden. Nur wenn diese Fragen notiert wurden, dürfen sie auch an andere gestellt werden. Dokumentation ist entscheidend für Entwickler, da wir nur kontinuierlich Fehler und Strukturen auflösen können, die auf angenommenem Wissen basieren. So können wir den Lehrgang offener und für jeden zugänglich gestalten.
+
 ## Lizenz
 
 Dieses Repository steht unter der GNU Affero General Public License (AGPL). Bitte beachten Sie die Lizenzdetails in der `LICENSE` Datei.
