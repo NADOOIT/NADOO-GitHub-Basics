@@ -1,5 +1,3 @@
-Hier ist die erweiterte und vollständige Version des Abschnitts **"GitHub Issues erstellen und verwalten"** mit mehr Inhalt:
-
 # GitHub Issues erstellen und verwalten
 
 ## 1. Schritt: Ein Issue erstellen
