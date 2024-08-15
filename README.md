@@ -24,6 +24,10 @@ Willkommen zum NADOO-GitHub-Basics Repository! Dieses Repository dient als Grund
    - Erstellen eines Pull Requests, um Änderungen vorzuschlagen.
    - Code-Reviews durchführen und Pull Requests mergen.
 
+6. **Sterne vergeben und Repositories beobachten**
+   - **GitHub-Sterne:** Sterne auf GitHub sind eine einfache Möglichkeit, interessante Repositories zu markieren, um sie später leichter wiederzufinden. Es wird von Ihnen erwartet, dass Sie alle Repositories, die Sie im Rahmen dieses Bildungsgangs abgeschlossen haben, mit einem Stern versehen. Dies hilft Ihnen, relevante Projekte im Auge zu behalten und gleichzeitig die Arbeit der Community zu würdigen.
+   - **Repositories beobachten:** Indem Sie ein Repository beobachten (watch), erhalten Sie Benachrichtigungen über alle neuen Aktivitäten wie Issues, Pull Requests und Commits. Dies ermöglicht es Ihnen, direkt in den Weiterentwicklungsprozess der Lern-Repositories involviert zu bleiben. Folgen Sie jedem der Lern-Repositories und achten Sie auf Updates und Änderungen.
+
 ## Anleitungen
 
 Jede Anleitung wird in separaten Markdown-Dateien bereitgestellt:
@@ -33,6 +37,17 @@ Jede Anleitung wird in separaten Markdown-Dateien bereitgestellt:
 - [Forking und Branching](docs/Forking-Branching.md)
 - [GitHub Issues](docs/GitHub-Issues.md)
 - [Pull Requests](docs/Pull-Requests.md)
+- [Sterne und Beobachten](docs/Sterne-Beobachten.md)
+
+## Vorschläge für Issues
+
+Im Rahmen dieses Bildungsgangs sollen Sie auch lernen, Issues zu erstellen, um Verbesserungsvorschläge für die Repositories zu machen. Hier einige Vorschläge für mögliche Issues, die Sie erstellen könnten:
+
+- **Lokalisierung:** Übersetzen Sie das Repository in verschiedene Sprachen, z. B. Englisch, Französisch, Ukrainisch.
+- **Videotutorial:** Erstellen Sie ein Video-Tutorial, das die wichtigsten Schritte in diesem Repository zeigt.
+- **Verbesserte Dokumentation:** Ergänzen Sie die Dokumentation um detaillierte Anleitungen oder häufige Fehlerbehebungen.
+- **Code-Optimierung:** Überprüfen Sie den vorhandenen Code auf mögliche Verbesserungen in Bezug auf Performance oder Lesbarkeit.
+- **Automatisierte Tests:** Implementieren Sie Unit-Tests, um die Codequalität zu verbessern.
 
 ## Ziel
 
