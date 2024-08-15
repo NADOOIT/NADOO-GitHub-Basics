@@ -68,3 +68,5 @@ Es ist entscheidend, dass alle Fragen, die während der Bearbeitung dieses Lehrg
 ## Lizenz
 
 Dieses Repository steht unter der GNU Affero General Public License (AGPL). Bitte beachten Sie die Lizenzdetails in der `LICENSE` Datei.
+
+Nächster Lernabschnitt: https://github.com/NADOOIT/NADOO-Bewerbungsprozess
