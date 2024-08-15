@@ -1,4 +1,3 @@
-```markdown
 # Pull Requests auf GitHub
 
 ## 1. Schritt: Branch vorbereiten
@@ -27,4 +26,3 @@ Geben Sie einen Titel und eine Beschreibung für Ihren Pull Request ein. Erklär
 Ein Teammitglied führt eine Code-Review durch. Nach der Überprüfung kann der Pull Request gemerged werden.
 
 ![Merge Pull Request](Platzhalter-fuer-Bild-MergePR.png)
-```
