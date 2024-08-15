@@ -63,7 +63,7 @@ Um das Repository zu vervollständigen, erstellen Sie Screenshots der beschriebe
 
 ## Dokumentation und Fragen
 
-Es ist entscheidend, dass alle Fragen, die während der Bearbeitung dieses Lehrgangs aufkommen, dokumentiert werden. Nur wenn diese Fragen notiert wurden, dürfen sie auch an andere gestellt werden. Dokumentation ist entscheidend für Entwickler, da wir nur kontinuierlich Fehler und Strukturen auflösen können, die auf angenommenem Wissen basieren. So können wir den Lehrgang offener und für jeden zugänglich gestalten.
+Es ist entscheidend, dass alle Fragen, die während der Bearbeitung dieses Lehrgangs aufkommen, dokumentiert werden. Nur wenn diese Fragen notiert wurden, dürfen sie auch an andere gestellt werden. Dokumentation ist entscheidend für Entwickler, da wir nur so kontinuierlich Fehler und Strukturen auflösen können, die auf angenommenem Wissen basieren. So können wir den Lehrgang offener und für jeden zugänglich gestalten.
 
 ## Lizenz
 
