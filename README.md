@@ -7,6 +7,7 @@ Willkommen zum NADOO-GitHub-Basics Repository! Dieses Repository dient als Grund
 1. **Kontoerstellung**
    - Anleitung zur Erstellung eines GitHub-Kontos.
    - Sicherheitstipps: 2FA einrichten.
+   - Erinnerung bei vorhandenem GitHub-Konto: Wenn das Konto mit einer Kurs-Email-Adresse angemeldet wurde, sollte die Primär-Adresse des Kontos zeitnah geändert werden um bei einer Löschung der Adresse den Zugriff nicht zu verlieren. 
 
 2. **Repository erstellen**
    - Ein eigenes Repository erstellen und initialisieren.
