@@ -1,6 +1,18 @@
 # NADOO-GitHub-Basics
 
-Willkommen zum NADOO-GitHub-Basics Repository! Dieses Repository dient als Grundlage für Ihre ersten Schritte mit GitHub. Hier werden Sie lernen, wie Sie ein GitHub-Konto erstellen, ein Repository anlegen und verwalten sowie grundlegende GitHub-Workflows wie Forking, Branching und Pull Requests verstehen.
+Willkommen zum NADOO-GitHub-Basics Repository! Dieses Repository dient als Grundlage für Ihre ersten Schritte mit GitHub. Sie lernen, wie Sie ein GitHub-Konto erstellen, ein Repository anlegen und verwalten sowie grundlegende Workflows wie Forking, Branching und Pull Requests verstehen.
+
+> 📸 **Wichtig:** Bitte erstellen Sie während der Bearbeitung Screenshots der einzelnen Schritte. Diese werden später benötigt, um Ihre Arbeit zu dokumentieren und Pull Requests zu vervollständigen.
+
+## 🧰 Vorbereitung
+
+Bevor Sie starten, stellen Sie bitte sicher:
+
+- [ ] GitHub-Konto erstellt
+- [ ] Repository geforkt
+- [ ] Screenshots während der Arbeit geplant
+- [ ] Fragen und Beobachtungen dokumentiert
+
 
 ## Inhalte
 
